@@ -1,0 +1,6 @@
+{
+  "name": "Video Bangla Translator",
+  "description": "Mobile-first video translation studio that extracts English speech from videos, generates timed English subtitles, and translates them into natural Bengali (বাংলা).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
